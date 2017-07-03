@@ -1,4 +1,4 @@
-# batch - A collection of Batch files for Windows command prompt.
+# batch - Collection of useful Windows command line batch files.
 
 subfind.cmd v1.0 for Windows - by Michael Milette - www.tngconsulting.ca
 ------------------------------------------------------------------------
@@ -14,4 +14,4 @@ Example: **subfind local\contact** - This searches all of the folders in the cur
 
 Example: **subfind sites** - This seaches all of the folders in the current directory for those that contain a directory called "sites". This could be useful to identify which directories are Drupal sites.
 
-Example: subfind wp-config.php - This seaches all of the folders in the current directory for those that contain a file called "wp-config.php". This could be useful to identify which directories are WordPress sites.
+Example: **subfind wp-config.php** - This seaches all of the folders in the current directory for those that contain a file called "wp-config.php". This could be useful to identify which directories are WordPress sites.
